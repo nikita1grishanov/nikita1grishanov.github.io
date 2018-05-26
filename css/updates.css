@@ -1,0 +1,227 @@
+body {
+  height: 100%;
+  background: rgb(255, 255, 255);
+  background: -webkit-linear-gradient(150deg, rgba(0, 0, 0, 0.38) 0.7142857142857143%, rgba(0, 0, 0, 0.38) 100%), -webkit-linear-gradient(218deg, rgba(0, 0, 0, 0.42) 86.90476190476191%, rgba(0, 0, 0, 0.4) 100%), url('../images/i313141(2).jpg') rgb(255, 255, 255);
+  background:    -moz-linear-gradient(150deg, rgba(0, 0, 0, 0.38) 0.7142857142857143%, rgba(0, 0, 0, 0.38) 100%),    -moz-linear-gradient(218deg, rgba(0, 0, 0, 0.42) 86.90476190476191%, rgba(0, 0, 0, 0.4) 100%), url('../images/i313141(2).jpg') rgb(255, 255, 255);
+  background:      -o-linear-gradient(150deg, rgba(0, 0, 0, 0.38) 0.7142857142857143%, rgba(0, 0, 0, 0.38) 100%),      -o-linear-gradient(218deg, rgba(0, 0, 0, 0.42) 86.90476190476191%, rgba(0, 0, 0, 0.4) 100%), url('../images/i313141(2).jpg') rgb(255, 255, 255);
+  background:     -ms-linear-gradient(150deg, rgba(0, 0, 0, 0.38) 0.7142857142857143%, rgba(0, 0, 0, 0.38) 100%),     -ms-linear-gradient(218deg, rgba(0, 0, 0, 0.42) 86.90476190476191%, rgba(0, 0, 0, 0.4) 100%), url('../images/i313141(2).jpg') rgb(255, 255, 255);
+  background:         linear-gradient(300deg, rgba(0, 0, 0, 0.38) 0.7142857142857143%, rgba(0, 0, 0, 0.38) 100%),         linear-gradient(232deg, rgba(0, 0, 0, 0.42) 86.90476190476191%, rgba(0, 0, 0, 0.4) 100%), url('../images/i313141(2).jpg') rgb(255, 255, 255);
+  background-repeat: repeat, repeat, no-repeat;
+  background-size: 100% 100%, 128% 100%, cover;
+  background-position: 0% 0%, 0% 0%, 37% 109%;
+  background-attachment: scroll, scroll, fixed;
+  font: 400 1.563em/1.38 Helvetica;
+  color: rgb(129, 122, 119);
+}
+
+.container {
+  float: left;
+}
+
+.container .container {
+  width: 341px;
+  height: 69px;
+  margin: 113px 0 0 0.83073%;
+}
+
+.element {
+  float: left;
+  width: 286px;
+  height: 166px;
+  margin: 16px 0 0 1.41667%;
+  background: url('../images/dota_logo(2).png') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: left top;
+}
+
+.text {
+  float: left;
+}
+
+.text-4 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  float: left;
+  text-align: center;
+}
+
+._input {
+  display: block;
+  float: left;
+  clear: both;
+  width: 226px;
+  height: 39px;
+  margin: 11px 0 0 5.85482%;
+  padding: 0 10px;
+  border-radius: 1000000px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.52em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-1 {
+  width: 100%;
+  min-height: 184px;
+  background-color: rgba(28, 25, 25, 0.99);
+  box-shadow: 0 -9px 5px rgba(55, 49, 49, 0.99) inset;
+}
+
+.container-3 {
+  position: relative;
+  clear: both;
+  z-index: 15;
+  width: 107.5%;
+  height: 226px;
+  margin-top: 2431px;
+  background-color: rgba(28, 25, 25, 0.99);
+  box-shadow: 2px 1px 5px 15px rgba(0, 0, 0, .5) inset;
+}
+
+.container-4 {
+  position: relative;
+  clear: both;
+  z-index: 2;
+  width: 777px;
+  height: 2437px;
+  margin: -2657px 0 0 6.83073%;
+  background-color: rgba(28, 25, 25, 0.99);
+  box-shadow: 0 2px 5px 8px rgba(82, 73, 73, 0.99) inset;
+}
+
+.container-5 {
+  position: relative;
+  z-index: 12;
+  width: 257px;
+  height: 2437px;
+  margin: -2657px 0 0 74.66667%;
+  background-color: rgba(28, 25, 25, 0.99);
+  box-shadow: 0 2px 5px 3px rgba(128, 128, 128, 0.5) inset;
+}
+
+.text-1 {
+  position: relative;
+  z-index: 4;
+  width: 184px;
+  min-height: 49px;
+  font-size: 2em;
+  color: rgb(129, 122, 119);
+}
+
+.text-1:hover {
+  color: rgb(255, 255, 255);
+}
+
+.text-1:active {
+  color: rgb(76, 72, 70);
+}
+
+.text-2 {
+  position: relative;
+  clear: both;
+  z-index: 5;
+  width: 138px;
+  min-height: 71px;
+  margin: -69px 0 0 46.32973%;
+  font-size: 2em;
+  color: rgb(129, 122, 119);
+}
+
+.text-3 {
+  width: 21.9379844961%;
+  min-height: 74px;
+  margin: 75px 0 0 3.71851%;
+  font-size: 1.6em;
+  color: rgb(255, 255, 255);
+}
+
+.text-4 {
+  width: 675px;
+  min-height: 260px;
+  margin: 33px 0 0 5.28073%;
+  font-size: 1em;
+  color: rgb(129, 122, 119);
+}
+
+.text-5 {
+  clear: both;
+  width: 15.1866151866%;
+  min-height: 76px;
+  margin: 181px 0 0 71.81668%;
+  font-size: 0.64em;
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  position: relative;
+  clear: both;
+  z-index: 8;
+  width: 188px;
+  height: 87px;
+  margin: 30px 0 0 6.83073%;
+  border-top-left-radius: 100000px;
+  border-top-right-radius: 1000px;
+  background-color: rgba(28, 25, 25, 0.99);
+  font-size: 0.64em;
+  color: rgba(0, 0, 0, 0.99);
+}
+
+._button-1:hover {
+  background-color: rgb(129, 122, 119);
+}
+
+._button-2 {
+  position: relative;
+  z-index: 9;
+  width: 170px;
+  height: 87px;
+  margin-top: 30px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 1000000px;
+  background-color: rgba(109, 97, 97, 0.99);
+  font-size: 0.64em;
+  color: rgb(0, 0, 0);
+}
+
+._button-2:hover {
+  background-color: rgba(82, 73, 73, 0.99);
+}
+
+._button-2:active {
+  background-color: rgba(109, 97, 97, 0.99);
+}
+
+.container ._button-3 {
+  width: 15.3488372093%;
+  height: 67px;
+  margin: 54px 0 0 31.63033%;
+  border: 4px solid rgb(208, 255, 0);
+  background-color: rgb(249, 165, 12);
+  font-size: 0.64em;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button-4 {
+  width: 226px;
+  height: 146px;
+  margin: 15px 0 0 5.85482%;
+  background-color: rgb(255, 0, 0);
+  font-size: 0.8em;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-4:hover {
+  background-color: rgb(255, 51, 51);
+}
+
+.container ._button-4:active {
+  background-color: rgb(153, 0, 0);
+}
